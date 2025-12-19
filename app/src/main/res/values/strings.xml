@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SnakesAndLadders</string>
+    <string name="player_rolled">The player rolled: %1$d</string>
+    <string name="computer_rolled">The computer rolled: %1$d</string>
+    <string name="player_1_rolled">Player 1 rolled: %1$d</string>
+    <string name="player_2_rolled">Player 2 rolled: %1$d</string>
+    <string name="player_won">The player won!</string>
+    <string name="computer_won">The computer won!</string>
+    <string name="player_1_won">Player 1 won!</string>
+    <string name="player_2_won">Player 2 won!</string>
+    <string name="winner_title">We have a winner!</string>
+    <string name="ok">OK</string>
+    <string name="roll_dice">Roll Dice</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="vs_computer">VS. Computer</string>
+    <string name="play_with_friend">Play With A Friend</string>
+    <string name="game_title">Snakes &amp; Ladders</string>
+</resources>

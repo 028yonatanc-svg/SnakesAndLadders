@@ -1,0 +1,15 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="120dp"
+    android:viewportWidth="100"
+    android:viewportHeight="120">
+  <path
+      android:pathData="M50,110 C20,90 80,80 50,60 C20,40 80,30 50,10"
+      android:strokeLineCap="round"
+      android:strokeColor="#FFEB3B"
+      android:fillColor="#00000000"
+      android:strokeWidth="12"/>
+  <!-- Eyes -->
+  <path android:fillColor="#FFFFFF" android:pathData="M44.5,10 a2.5,2.5 0 1,0 5,0 a2.5,2.5 0 1,0 -5,0 M50.5,10 a2.5,2.5 0 1,0 5,0 a2.5,2.5 0 1,0 -5,0"/>
+  <path android:fillColor="#000000" android:pathData="M46,10 a1,1 0 1,0 2,0 a1,1 0 1,0 -2,0 M52,10 a1,1 0 1,0 2,0 a1,1 0 1,0 -2,0"/>
+</vector>
