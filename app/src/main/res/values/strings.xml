@@ -15,4 +15,17 @@
     <string name="vs_computer">VS. Computer</string>
     <string name="play_with_friend">Play With A Friend</string>
     <string name="game_title">Snakes &amp; Ladders</string>
+    <string name="information">Information</string>
+    <string name="game_information_title">Game Information</string>
+    <string name="game_information_message">
+        Welcome to Snakes &amp; Ladders!\n\n
+        <b>Objective:</b> Be the first player to reach the final square (60) to win.\n\n
+        <b>Gameplay:</b>
+        - You roll a single six-sided die to move your character.
+        - Landing on the bottom of a ladder will make you climb to the top.
+        - Landing on the head of a snake will make you slide to its tail.\n\n
+        <b>Board Layout:</b>
+        - There are between 2 to 5 snakes and 2 to 5 ladders on the board each game.
+        - Their positions are randomized every time you start a new game.
+    </string>
 </resources>

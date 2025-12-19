@@ -122,6 +122,19 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/btnVsComputer"
             android:layout_marginTop="16dp" />
+            
+        <Button
+            android:id="@+id/btnInfo"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="@string/information"
+            android:backgroundTint="#808080"
+            android:textColor="#FFFFFF"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/btnPlayFriend"
+            app:layout_constraintVertical_bias="0.1" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
